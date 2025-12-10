@@ -1,10 +1,13 @@
 # Santander Customer Satisfaction Prediction
-Industrial-Scale Tabular Data · Binary Classification · Explainable ML
+Binary Classification｜Feature Engineering｜Imbalanced Data｜Production-Level Tabular ML
 
-This project is based on the classic Kaggle competition **Santander Customer Transaction Prediction**, with the goal of predicting whether a user will perform a specific action (such as a transaction, review, or other binary classification event).  
-The project primarily showcases my capabilities in:  
+This project is based on the classic Kaggle competition **Santander Customer Transaction Prediction**. The goal is to predict whether a user will perform a specific transaction behavior using a highly anonymized dataset of numerical features.  
 
-- Processing highly anonymized data  
-- Large-scale feature engineering  
-- Model hyperparameter tuning (LightGBM)  
-- Building a complete ML pipeline
+The project primarily demonstrates my capabilities in:
+
+- Processing large-scale tabular data  
+- Feature engineering and feature selection  
+- KFold model validation  
+- LightGBM/XGBoost model design  
+- SHAP-based model interpretability analysis
+
